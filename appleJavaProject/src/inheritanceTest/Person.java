@@ -56,7 +56,7 @@ public class Person {
 		}
 		else
 		{
-			System.out.println("details will show only if you are from pune");
+			System.out.println("details will show only if you are from pune ");
 		}
 	}
 	
